@@ -1,5 +1,13 @@
 # Projeto de API simples com Node.js
 
+Requisitos:
+- NodeJS (https://nodejs.org/)
+
+Clone o repositório e entre no diretório:
+```bash
+cd node-do-zero
+```
+
 Utilize a versão 18.16.0 do Node.js com o comando:
 
 ```bash
