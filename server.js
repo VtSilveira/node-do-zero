@@ -1,4 +1,4 @@
-import fastify from 'fastify'
+import { fastify } from 'fastify'
 // import { DatabaseMemory } from './database-mem.js'
 import { DatabasePostgres } from './database-postgres.js';
 
